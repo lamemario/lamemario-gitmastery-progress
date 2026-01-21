@@ -123,5 +123,15 @@
       "You have not committed the relevant changes yet!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769019114.910802,
+    "completed_at": 1769019130.626093,
+    "comments": [
+      "You should be ignoring the rest of many/* except many/file22.txt!",
+      "You have not committed the relevant changes yet!"
+    ],
+    "status": "Incomplete"
   }
 ]
